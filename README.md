@@ -1,5 +1,4 @@
-# parcel-static-webpage
-A template for static webpages bundled with parcel
+# A template for static webpages bundled with parcel
 
 Getting started:
 1. Create a new repo from this template
