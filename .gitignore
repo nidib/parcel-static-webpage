@@ -1,4 +1,10 @@
+# macOS
+.DS_Store
+
+# Project specific
+.cache/
+.parcel-cache/
 node_modules/
 build/
-.DS_Store
-.cache/
+dist/
+coverage/
